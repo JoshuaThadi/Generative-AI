@@ -217,28 +217,84 @@
 
 ### Tools & Frameworks for LLMs
 
-| Tool | Description | Link |
-|------|-------------|------|
-| Hugging Face Models | Thousands of pre-trained LLMs | [🔗](https://huggingface.co/models) |
-| LangChain | LLM orchestration framework | [🔗](https://www.langchain.com/) |
-| OpenAI GPT-3.5/4 | Industry-leading LLMs | [🔗](https://platform.openai.com/docs) |
-| Meta LLaMA 2 / 3 | Open-weight transformer models | [🔗](https://ai.meta.com/llama/) |
-| Claude (Anthropic) | Constitutional AI-based LLM | [🔗](https://www.anthropic.com/index/claude) |
-| Google Gemini | Multimodal large model | [🔗](https://deepmind.google/technologies/gemini/) |
-| Mistral AI | Open-weight LLMs | [🔗](https://mistral.ai/) |
-| Haystack | Retrieval-Augmented Generation | [🔗](https://haystack.deepset.ai/) |
+<b>1] Hugging Face Models</b> : Offers thousands of open-source pre-trained models for NLP, vision, audio, and more.<br>
+<b>2] LangChain</b> : A framework to build LLM-powered apps by chaining prompts, tools, and memory together.<br>
+<b>3] OpenAI GPT-3.5/4</b> : Leading proprietary large language models with world-class reasoning and generation capabilities.<br>
+<b>4] Meta LLaMA 2 / 3</b> : Open-weight transformer models built by Meta for research and commercial use.<br>
+<b>5] Claude (Anthropic)</b> : Constitutional AI-based LLM with strong reasoning, harmlessness, and helpfulness principles.<br>
+<b>6] Google Gemini</b> : Multimodal foundation model from DeepMind capable of text, vision, and code understanding.<br>
+<b>7] Mistral AI</b> : Efficient, high-performance open-weight LLMs optimized for real-world deployment.<br>
+<b>8] Haystack</b> : Powerful framework for building retrieval-augmented generation (RAG) pipelines using LLMs.<br>
+
+<!-- Hugging Face Models -->
+<a href="https://huggingface.co/models" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Hugging_Face_Models-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Models"></a>
+
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LangChain_Framework-555555?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"></a>
+
+<!-- OpenAI GPT-3.5/4 -->
+<a href="https://platform.openai.com/docs" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenAI_GPT_3.5/4-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT"></a>
+
+<!-- Meta LLaMA 2 / 3 -->
+<a href="https://ai.meta.com/llama/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Meta_LLaMA_2/3-555555?style=for-the-badge&logo=meta&logoColor=white" alt="Meta LLaMA"></a>
+
+<!-- Claude (Anthropic) -->
+<a href="https://www.anthropic.com/index/claude" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-555555?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"></a>
+
+<!-- Google Gemini -->
+<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+
+<!-- Mistral AI -->
+<a href="https://mistral.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Mistral_AI-555555?style=for-the-badge&logo=airbnb&logoColor=white" alt="Mistral AI"></a>
+
+<!-- Haystack -->
+<a href="https://haystack.deepset.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Haystack_RAG_Framework-555555?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Haystack"></a>
+
+
 
 ### Official Resources for LLMs
 
-- [🔗 Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1)
-- [🔗 Stanford CS25 Transformers Course](https://web.stanford.edu/class/cs25/)
-- [🔗 Andrej Karpathy – Neural Networks Zero to Hero](https://www.youtube.com/playlist?list=PLpzmRsG7u_gta8p3WGuUq4I1R9apS8Wlg)
-- [🔗 OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-- [🔗 LangChain Documentation](https://docs.langchain.com/)
-- [🔗 Anthropic Claude API Docs](https://docs.anthropic.com/claude)
+<!-- Hugging Face NLP Course -->
+<a href="https://huggingface.co/learn/nlp-course/chapter1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HuggingFace_NLP_Course-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face NLP Course"></a>
+
+<!-- Stanford CS25 Transformers Course -->
+<a href="https://web.stanford.edu/class/cs25/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Stanford_CS25_Transformers-555555?style=for-the-badge&logo=academia&logoColor=white" alt="Stanford CS25 Transformers"></a>
+
+<!-- Andrej Karpathy – Neural Networks Zero to Hero -->
+<a href="https://www.youtube.com/playlist?list=PLpzmRsG7u_gta8p3WGuUq4I1R9apS8Wlg" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Karpathy_Zero_to_Hero-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="Karpathy Zero to Hero"></a>
+
+<!-- Karpathy – Neural Networks Zero to Hero -->
+<a href="https://www.youtube.com/playlist?list=PLpzmRsG7u_gta8p3WGuUq4I1R9apS8Wlg" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Karpathy_Zero_to_Hero-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="Karpathy LLM Series"></a>
+
+<!-- OpenAI Cookbook -->
+<a href="https://github.com/openai/openai-cookbook" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenAI_Cookbook-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Cookbook"></a>
+
+<!-- LangChain Documentation -->
+<a href="https://docs.langchain.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LangChain_Docs-555555?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain Documentation"></a>
+
+<!-- Anthropic Claude API Docs -->
+<a href="https://docs.anthropic.com/claude" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Claude_API_Docs-555555?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API Docs"></a>
+
 
 ---
 
-## 📁 Repository Structure
+<div align="center">
+   ⚠️ This repository is uniquely designed by @JoshuaThadi 
+</div>
 
 
