@@ -141,22 +141,18 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://www.coursera.org/specializations/deep-learning" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coursera_Deep_Learning_Specialization-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Deep Learning Specialization"></a>
 
-<!-- MIT Deep Learning Lectures -->
-<a href="https://deeplearning.mit.edu/lectures/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/MIT_Deep_Learning-555555?style=for-the-badge&logo=mit&logoColor=white" alt="MIT Deep Learning Lectures"></a>
-
-<!-- Google AI Blog - Diffusion Models -->
-<a href="https://ai.googleblog.com/2021/07/introducing-diffusion-models.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google_AI_Blog-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Blog"></a>
-
-
 <!-- NVIDIA Deep Learning Institute -->
 <a href="https://developer.nvidia.com/deep-learning-institute" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/NVIDIA_Deep_Learning_Institute-555555?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Deep Learning Institute"></a>
 
 <!-- DeepLearning.AI - Generative AI with LLMs -->
-<a href="https://www.deeplearning.ai/short-courses/generative-ai-with-llms/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.coursera.org/learn/generative-ai-for-everyone?utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_generative-ai-for-everyone_deeplearning-ai_ftcof_learn_cx_dr_bau_gg_sem_pr_in_all_m_hyb_25-05_x&campaignid=22610002514&adgroupid=183218873467&device=c&keyword=generative%20ai%20for%20everyone%20course&matchtype=p&network=g&devicemodel=&creativeid=754898884707&assetgroupid=&targetid=kwd-2418803344930&extensionid=&placement=&gad_source=1&gad_campaignid=22610002514&gbraid=0AAAAADdKX6YdI7TEN9bkOjTn22G9Rv5yJ&gclid=CjwKCAjwg7PDBhBxEiwAf1CVu20ckoghHIIJo3xbnrjc_jfADemRTaxt1l-ojrXO6gF1lt1XsP5T6RoCGo8QAvD_BwE" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DeepLearning.AI_Generative_AI-555555?style=for-the-badge&logo=deeplearningai&logoColor=white" alt="DeepLearning.AI Generative AI"></a>
+
+
+<!-- Fast.ai - Practical Deep Learning for Coders -->
+<a href="https://course.fast.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Fast.ai_Deep_Learning-555555?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai Deep Learning"></a>
 
 <!-- Hugging Face Course - Diffusers and Transformers -->
 <a href="https://huggingface.co/course/chapter7" target="_blank" rel="noopener noreferrer">
@@ -165,14 +161,6 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <!-- OpenAI API Documentation -->
 <a href="https://platform.openai.com/docs" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/OpenAI_API_Docs-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API Docs"></a>
-
-<!-- Fast.ai - Practical Deep Learning for Coders -->
-<a href="https://course.fast.ai/part2" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Fast.ai_Deep_Learning-555555?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai Deep Learning"></a>
-
-<!-- Papers with Code - Generative Models -->
-<a href="https://paperswithcode.com/task/generative-models" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Papers_with_Code-555555?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Papers with Code"></a>
 
 <!-- Google AI Courses -->
 <a href="https://ai.google/education/" target="_blank" rel="noopener noreferrer">
@@ -186,10 +174,10 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coursera_Andrew_Ng_ML-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Andrew Ng ML"></a>
 
-
-<!-- Fast.ai Practical Deep Learning -->
-<a href="https://course.fast.ai/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Fast.ai_Practical_DL-555555?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai Practical Deep Learning"></a>
+<!-- MIT Deep Learning Lectures -->
+<a href="https://introtodeeplearning.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MIT_Deep_Learning-555555?style=for-the-badge&logo=mit&logoColor=white" alt="MIT Deep Learning Lectures"></a>
+  
 
 
 
@@ -220,7 +208,7 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 
 
 <!-- Model Deployment, Scalability, and Cost Estimation -->
-<a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank" rel="noopener noreferrer">
+<a href="https://docs.truefoundry.com/docs/deploying-an-llm-model-from-the-model-catalogue" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Model_Deployment-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Deployment"></a>
 
 <!-- Ethics: Hallucination, Security, Jailbreaking -->
@@ -228,7 +216,7 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
   <img src="https://img.shields.io/badge/Ethics_in_AI-555555?style=for-the-badge&logo=google&logoColor=white" alt="AI Ethics"></a>
 
 <!-- RAG (Retrieval Augmented Generation) -->
-<a href="https://huggingface.co/blog/rag" target="_blank" rel="noopener noreferrer">
+<a href="https://aws.amazon.com/what-is/retrieval-augmented-generation/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/RAG_Retrieval_Augmented_Generation-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG"></a>
 
 <!-- Pretraining & Fine-tuning (LoRA, PEFT, RLHF) -->
@@ -241,11 +229,11 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
   <img src="https://img.shields.io/badge/Transformer_Architecture-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Transformer Architecture"></a>
 
 <!-- Prompt Engineering (Zero-shot, Few-shot, CoT) -->
-<a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-engineering" target="_blank" rel="noopener noreferrer">
+<a href="https://cloud.google.com/discover/what-is-prompt-engineering?hl=en" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Prompt_Engineering-555555?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Prompt Engineering"></a>
 
 <!-- Evaluation Metrics (Perplexity, LAMBADA, TruthfulQA) -->
-<a href="https://aclanthology.org/2021.naacl-main.364/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Evaluation_Metrics-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="Evaluation Metrics"></a>
 
 
