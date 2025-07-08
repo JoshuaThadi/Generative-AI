@@ -2,6 +2,12 @@
 
 ## ★ Generative AI
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
 ### Topics Covered in Generative AI
 
 <b>1] Fundamentals of Generative AI</b> : Learn how AI models create new data like text, images, audio, and more from patterns in training data. <br>
@@ -65,9 +71,11 @@
 <a href="https://openai.com/sora" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Generative_AI_Applications-555555?style=for-the-badge&logo=artstation&logoColor=white" alt="Generative AI Applications"></a>
 
-
-
-
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 ### Tools & Frameworks for Generative AI
@@ -114,6 +122,11 @@
 <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/PyTorch-555555?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 ### Official Resources for Generative AI
 
@@ -176,6 +189,12 @@
 
 ## ☆ Large Language Models (LLMs)
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
 ### Topics Covered in LLMs
 
 <b>1] Transformer Architecture & Self-Attention</b> : Core deep learning model using attention to process sequences efficiently and capture context.<br>
@@ -214,6 +233,11 @@
 <a href="https://ai.google/responsibilities/responsible-ai-practices/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Ethics_in_AI-555555?style=for-the-badge&logo=google&logoColor=white" alt="AI Ethics"></a>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 ### Tools & Frameworks for LLMs
 
@@ -258,7 +282,11 @@
 <a href="https://haystack.deepset.ai/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Haystack_RAG_Framework-555555?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Haystack"></a>
 
-
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 ### Official Resources for LLMs
 
@@ -293,69 +321,239 @@
 
 ---
 
-# 📢 Language and Communication Models (LCMs)
+## ✪ Language and Communication Models (LCMs)
 
 Welcome to the **Language and Communication Models (LCMs)** section of the repository. LCMs are a broader class of AI models that go beyond text-based LLMs to encompass **speech**, **dialogue**, **emotion**, and **multimodal communication** — bringing machines closer to truly human-like interaction.
 
----
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
-## 📚 Topics Covered
+### Core Concepts – Foundations of Human-AI Communication
 
-### 🧠 Core Concepts
-- Language vs. Communication Models
-- Speech, Text, and Emotion as modalities
-- Pragmatics, semantics, and context-awareness
+<b>1] Language vs. Communication Models</b> : Understanding the distinction between structured language models and broader human communication patterns.<br>
+<b>2] Speech, Text, and Emotion as Modalities</b> : Key modalities processed by AI to understand and generate human-like interactions.<br>
+<b>3] Pragmatics, Semantics, and Context-awareness</b> : How AI interprets meaning, tone, and context beyond literal text.<br>
 
-### 💬 Communication Systems
-- Conversational AI & Dialogue Systems
-- Speech-to-Text (ASR)
-- Text-to-Speech (TTS)
-- Emotion & Sentiment Recognition
-- Multimodal Language Understanding (e.g., video + audio + text)
+<!-- Language vs. Communication Models -->
+<a href="https://en.wikipedia.org/wiki/Language_model" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Language_vs_Communication-555555?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Language vs Communication Models"></a>
 
-### ⚙️ Architectures and Techniques
-- Transformer-based speech models
-- Audio Transformers (Whisper, SpeechT5)
-- Multimodal Fusion (Gemini, GPT-4o, SeamlessM4T)
-- Reinforcement Learning for dialog control
-- Attention-based ASR/TTS systems
+<!-- Speech, Text, and Emotion as Modalities -->
+<a href="https://www.sciencedirect.com/topics/computer-science/multimodal-communication" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Speech_Text_Emotion-555555?style=for-the-badge&logo=sciencedirect&logoColor=white" alt="Speech, Text, and Emotion Modalities"></a>
 
-### ✅ Evaluation
-- Naturalness and fluency of speech
-- Emotion detection accuracy
-- BLEU, METEOR, BERTScore (text)
-- Human Evaluation: engagement, clarity
+<!-- Pragmatics, Semantics, and Context-awareness -->
+<a href="https://plato.stanford.edu/entries/pragmatics/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Pragmatics_Semantics_Context-555555?style=for-the-badge&logo=stanford&logoColor=white" alt="Pragmatics, Semantics, Context-awareness"></a>
 
----
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
-## 🛠 Tools & Frameworks
+### Communication Systems – Speech, Dialogue & Emotion Interfaces
 
-| Tool | Description | Link |
-|------|-------------|------|
-| [OpenAI Whisper](https://openai.com/research/whisper) | Powerful speech-to-text model | [🔗](https://openai.com/research/whisper) |
-| [SpeechT5](https://huggingface.co/microsoft/speecht5_tts) | Text-to-speech and speech-to-text | [🔗](https://huggingface.co/microsoft/speecht5_tts) |
-| [Coqui TTS](https://github.com/coqui-ai/TTS) | Open-source TTS framework | [🔗](https://github.com/coqui-ai/TTS) |
-| [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech) | RNN-based speech recognition | [🔗](https://github.com/mozilla/DeepSpeech) |
-| [Rasa](https://rasa.com/) | Conversational AI with NLP + ML | [🔗](https://rasa.com/) |
-| [Google Gemini](https://deepmind.google/technologies/gemini/) | Multimodal LCM | [🔗](https://deepmind.google/technologies/gemini/) |
-| [Meta SeamlessM4T](https://ai.meta.com/blog/seamlessm4t/) | Multilingual multimodal translation | [🔗](https://ai.meta.com/blog/seamlessm4t/) |
-| [Azure Speech Service](https://azure.microsoft.com/en-us/products/cognitive-services/speech-services) | Cloud speech recognition & TTS | [🔗](https://azure.microsoft.com/en-us/products/cognitive-services/speech-services) |
+<b>1] Conversational AI & Dialogue Systems</b> : AI agents designed to engage in meaningful, coherent conversations with users.<br>
+<b>2] Speech-to-Text (ASR)</b> : Converts spoken audio into textual data for analysis and response.<br>
+<b>3] Text-to-Speech (TTS)</b> : Converts written text into natural-sounding human speech.<br>
+<b>4] Emotion & Sentiment Recognition</b> : Detects affective states in voice or text to tailor responses.<br>
+<b>5] Multimodal Language Understanding</b> : Combines input like video, audio, and text to enable richer AI understanding.<br>
 
----
+<!-- Conversational AI & Dialogue Systems -->
+<a href="https://cloud.google.com/dialogflow" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Conversational_AI-555555?style=for-the-badge&logo=google&logoColor=white" alt="Conversational AI & Dialogue Systems"></a>
 
-## 📘 Official Resources
+<!-- Speech-to-Text (ASR) -->
+<a href="https://cloud.google.com/speech-to-text" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Speech_to_Text_ASR-555555?style=for-the-badge&logo=google&logoColor=white" alt="Speech-to-Text ASR"></a>
 
-- [OpenAI Whisper](https://openai.com/research/whisper)
-- [Meta SeamlessM4T Overview](https://ai.meta.com/blog/seamlessm4t/)
-- [Microsoft SpeechT5 Research Paper](https://arxiv.org/abs/2110.07205)
-- [Rasa Documentation](https://rasa.com/docs/)
-- [Google Gemini](https://deepmind.google/technologies/gemini/)
-- [Coursera – NLP & Dialogue Systems](https://www.coursera.org/learn/natural-language-processing)
-- [DeepLearning.AI NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+<!-- Text-to-Speech (TTS) -->
+<a href="https://cloud.google.com/text-to-speech" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Text_to_Speech_TTS-555555?style=for-the-badge&logo=google&logoColor=white" alt="Text-to-Speech TTS"></a>
 
----
+<!-- Emotion & Sentiment Recognition -->
+<a href="https://www.affectiva.com/emotion-ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Emotion_Sentiment_AI-555555?style=for-the-badge&logo=affectiva&logoColor=white" alt="Emotion & Sentiment Recognition"></a>
 
-## 🧠 LCMs vs LLMs: What’s the Difference?
+<!-- Multimodal Language Understanding -->
+<a href="https://arxiv.org/abs/2206.10467" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Multimodal_Language_Understanding-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Multimodal Language Understanding"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### Architectures and Techniques – State-of-the-art AI for Audio & Multimodal Tasks
+
+<b>1] Transformer-based speech models</b> : Models using self-attention to process audio sequences effectively.<br>
+<b>2] Audio Transformers (Whisper, SpeechT5)</b> : Advanced models designed for speech recognition, translation, and synthesis.<br>
+<b>3] Multimodal Fusion (Gemini, GPT-4o, SeamlessM4T)</b> : Combines modalities (audio, visual, text) in a single unified model.<br>
+<b>4] Reinforcement Learning for Dialog Control</b> : Uses reward mechanisms to optimize interactive conversations.<br>
+<b>5] Attention-based ASR/TTS systems</b> : Employs attention mechanisms for accurate speech recognition and synthesis.<br>
+
+
+<!-- Transformer-based speech models -->
+<a href="https://arxiv.org/abs/2103.02051" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Transformer_Speech_Models-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Transformer-based Speech Models"></a>
+
+<!-- Audio Transformers (Whisper, SpeechT5) -->
+<a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Whisper"></a>
+<a href="https://huggingface.co/microsoft/speecht5_tts" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/SpeechT5_(HuggingFace)-555555?style=for-the-badge&logo=microsoft&logoColor=white" alt="SpeechT5"></a>
+
+<!-- Multimodal Fusion (Gemini, GPT-4o, SeamlessM4T) -->
+<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+<a href="https://ai.meta.com/research/publications/seamless-m4t/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Meta_SeamlessM4T-555555?style=for-the-badge&logo=meta&logoColor=white" alt="SeamlessM4T"></a>
+
+<!-- Reinforcement Learning for Dialog Control -->
+<a href="https://arxiv.org/abs/2006.12367" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Reinforcement_Learning_Dialog-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="RL for Dialog Control"></a>
+
+<!-- Attention-based ASR/TTS systems -->
+<a href="https://arxiv.org/abs/1506.07503" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Attention_ASR_TTS-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Attention-based ASR/TTS"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### Evaluation – How We Measure Communication AI
+
+<b>1] Naturalness and Fluency of Speech</b> : Evaluates how human-like and fluid the generated speech sounds.<br>
+<b>2] Emotion Detection Accuracy</b> : Measures how well the model captures human emotional states.<br>
+<b>3] BLEU, METEOR, BERTScore</b> : Text-level evaluation metrics for measuring generated vs. reference quality.<br>
+<b>4] Human Evaluation: Engagement & Clarity</b> : Real-user feedback to judge interaction quality and coherence.<br>
+
+<!-- Naturalness and Fluency of Speech -->
+<a href="https://ieeexplore.ieee.org/document/8938133" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Naturalness_and_Fluency-555555?style=for-the-badge&logo=ieee&logoColor=white" alt="Naturalness and Fluency of Speech"></a>
+
+<!-- Emotion Detection Accuracy -->
+<a href="https://ieeexplore.ieee.org/document/8570153" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Emotion_Detection_Accuracy-555555?style=for-the-badge&logo=ieee&logoColor=white" alt="Emotion Detection Accuracy"></a>
+
+<!-- BLEU Score -->
+<a href="https://aclweb.org/anthology/P02-1040" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/BLEU_Score-555555?style=for-the-badge&logo=acl&logoColor=white" alt="BLEU Score"></a>
+
+<!-- METEOR Score -->
+<a href="https://aclweb.org/anthology/W05-0909" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/METEOR_Score-555555?style=for-the-badge&logo=acl&logoColor=white" alt="METEOR Score"></a>
+
+<!-- BERTScore -->
+<a href="https://arxiv.org/abs/1904.09675" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/BERTScore-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="BERTScore"></a>
+
+<!-- Human Evaluation: Engagement & Clarity -->
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0885230820300442" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Human_Evaluation-555555?style=for-the-badge&logo=sciencedirect&logoColor=white" alt="Human Evaluation"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### Tools & Frameworks
+
+<b>1] OpenAI Whisper</b> : A powerful, open-source speech-to-text model for accurate transcription.<br>
+<b>2] SpeechT5</b> : A versatile model supporting both text-to-speech and speech-to-text tasks.<br>
+<b>3] Coqui TTS</b> : An open-source framework for high-quality text-to-speech synthesis.<br>
+<b>4] Mozilla DeepSpeech</b> : RNN-based speech recognition system inspired by Baidu’s Deep Speech research.<br>
+<b>5] Rasa</b> : Open-source conversational AI platform combining NLP and machine learning for chatbots.<br>
+<b>6] Google Gemini</b> : Multimodal large communication model integrating multiple data types for advanced AI.<br>
+<b>7] Meta SeamlessM4T</b> : Multilingual, multimodal translation system supporting speech, text, and vision.<br>
+<b>8] Azure Speech Service</b> : Cloud-based service offering speech recognition, synthesis, and translation APIs.<br>
+
+<a href="https://openai.com/research/whisper" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Whisper"></a>
+
+<a href="https://huggingface.co/microsoft/speecht5_tts" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/SpeechT5-555555?style=for-the-badge&logo=microsoft&logoColor=white" alt="SpeechT5"></a>
+
+<a href="https://github.com/coqui-ai/TTS" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coqui_TTS-555555?style=for-the-badge&logo=github&logoColor=white" alt="Coqui TTS"></a>
+
+<a href="https://github.com/mozilla/DeepSpeech" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Mozilla_DeepSpeech-555555?style=for-the-badge&logo=mozilla&logoColor=white" alt="Mozilla DeepSpeech"></a>
+
+<a href="https://rasa.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Rasa_AI-555555?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"></a>
+
+<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+
+<a href="https://ai.meta.com/blog/seamlessm4t/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Meta_SeamlessM4T-555555?style=for-the-badge&logo=meta&logoColor=white" alt="Meta SeamlessM4T"></a>
+
+<a href="https://azure.microsoft.com/en-us/products/cognitive-services/speech-services" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Azure_Speech_Service-555555?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Speech Service"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### Official Resources
+<a href="https://openai.com/research/whisper" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Whisper"></a>
+
+<a href="https://ai.meta.com/blog/seamlessm4t/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Meta_SeamlessM4T-555555?style=for-the-badge&logo=meta&logoColor=white" alt="Meta SeamlessM4T"></a>
+
+<a href="https://arxiv.org/abs/2110.07205" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/SpeechT5_Research-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="SpeechT5 Research Paper"></a>
+
+<a href="https://rasa.com/docs/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Rasa_Documentation-555555?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa Documentation"></a>
+
+<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+
+<a href="https://www.coursera.org/learn/natural-language-processing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coursera_NLP_Dialogue_Systems-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera NLP & Dialogue Systems"></a>
+
+<a href="https://www.coursera.org/specializations/natural-language-processing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/DeepLearningAI_NLP_Specialization-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI NLP Specialization"></a>
+
+
+<a href="https://huggingface.co/learn/nlp-course/chapter1" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Hugging_Face_NLP_Course-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face NLP Course"></a>
+
+<a href="https://web.stanford.edu/class/cs25/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Stanford_CS25_Transformers-555555?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford CS25 Transformers Course"></a>
+
+<a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ChatGPT_Prompt_Engineering-555555?style=for-the-badge&logo=deeplearningai&logoColor=white" alt="ChatGPT Prompt Engineering"></a>
+
+<a href="https://platform.openai.com/docs/tutorials" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/OpenAI_API_Documentation-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API Documentation"></a>
+
+<a href="https://www.coursera.org/learn/large-language-models" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coursera_Large_Language_Models-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Large Language Models"></a>
+
+<a href="https://www.udemy.com/course/large-language-models-and-transformers/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Udemy_LLMs_and_Transformers-555555?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy LLMs and Transformers"></a>
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### LCMs vs LLMs: What’s the Difference?
 
 | Feature | LLMs (Large Language Models) | LCMs (Language & Communication Models) |
 |--------|-------------------------------|----------------------------------------|
@@ -363,22 +561,6 @@ Welcome to the **Language and Communication Models (LCMs)** section of the repos
 | Focus | Text generation and understanding | Human-like communication and interaction |
 | Applications | Chatbots, summarization, RAG | Voice assistants, translators, emotion-aware AI |
 | Technologies | Transformers, RAG | Transformers + ASR + TTS + Fusion Models |
-
----
-
-## 💡 Example Applications
-
-- 🗣️ Voice-enabled chat assistants (e.g., GPT-4o)
-- 🎧 Real-time multilingual speech translation
-- 😃 Emotion-aware AI tutors and therapy bots
-- 🖥️ Audio captioning for accessibility
-- 🤖 Multimodal bots (text + voice + vision)
-
----
-
-## 🗂 Folder Structure
-
-
 
 
 
