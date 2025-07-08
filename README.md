@@ -572,6 +572,19 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 | Technologies | Transformers, RAG | Transformers + ASR + TTS + Fusion Models |
 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### Advanced projects for Gen AI, LLMs and LCMs
+
+<a href="https://github.com/JoshuaThadi/Generative-AI/blob/main/Projects.md" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GenAI_LLMs_LCMs-Projects-555555?style=for-the-badge&logo=markdown&logoColor=white" alt="Generative AI Projects">
+</a>
+
+
 
 ---
 
