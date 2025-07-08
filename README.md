@@ -219,6 +219,14 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <b>7] Ethics: Hallucination, Security, Jailbreaking</b> : Addressing risks of misinformation, system vulnerabilities, and adversarial exploitation in AI models.<br>
 
 
+<!-- Model Deployment, Scalability, and Cost Estimation -->
+<a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Model_Deployment-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Deployment"></a>
+
+<!-- Ethics: Hallucination, Security, Jailbreaking -->
+<a href="https://ai.google/responsibilities/responsible-ai-practices/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Ethics_in_AI-555555?style=for-the-badge&logo=google&logoColor=white" alt="AI Ethics"></a>
+
 <!-- RAG (Retrieval Augmented Generation) -->
 <a href="https://huggingface.co/blog/rag" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/RAG_Retrieval_Augmented_Generation-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG"></a>
@@ -240,13 +248,6 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <a href="https://aclanthology.org/2021.naacl-main.364/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Evaluation_Metrics-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="Evaluation Metrics"></a>
 
-<!-- Model Deployment, Scalability, and Cost Estimation -->
-<a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Model_Deployment-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Deployment"></a>
-
-<!-- Ethics: Hallucination, Security, Jailbreaking -->
-<a href="https://ai.google/responsibilities/responsible-ai-practices/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Ethics_in_AI-555555?style=for-the-badge&logo=google&logoColor=white" alt="AI Ethics"></a>
 
 <div>
   <p>
@@ -264,6 +265,19 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <b>6] Google Gemini</b> : Multimodal foundation model from DeepMind capable of text, vision, and code understanding.<br>
 <b>7] Mistral AI</b> : Efficient, high-performance open-weight LLMs optimized for real-world deployment.<br>
 <b>8] Haystack</b> : Powerful framework for building retrieval-augmented generation (RAG) pipelines using LLMs.<br>
+
+
+<!-- Google Gemini -->
+<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+
+<!-- Mistral AI -->
+<a href="https://mistral.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Mistral_AI-555555?style=for-the-badge&logo=airbnb&logoColor=white" alt="Mistral AI"></a>
+
+<!-- Haystack -->
+<a href="https://haystack.deepset.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Haystack_RAG_Framework-555555?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Haystack"></a>
 
 <!-- Hugging Face Models -->
 <a href="https://huggingface.co/models" target="_blank" rel="noopener noreferrer">
@@ -285,17 +299,6 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <a href="https://www.anthropic.com/index/claude" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Claude_(Anthropic)-555555?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"></a>
 
-<!-- Google Gemini -->
-<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
-
-<!-- Mistral AI -->
-<a href="https://mistral.ai/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Mistral_AI-555555?style=for-the-badge&logo=airbnb&logoColor=white" alt="Mistral AI"></a>
-
-<!-- Haystack -->
-<a href="https://haystack.deepset.ai/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Haystack_RAG_Framework-555555?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Haystack"></a>
 
 <div>
   <p>
@@ -355,6 +358,11 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 <b>2] Speech, Text, and Emotion as Modalities</b> : Key modalities processed by AI to understand and generate human-like interactions.<br>
 <b>3] Pragmatics, Semantics, and Context-awareness</b> : How AI interprets meaning, tone, and context beyond literal text.<br>
 
+
+<!-- Pragmatics, Semantics, and Context-awareness -->
+<a href="https://plato.stanford.edu/entries/pragmatics/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Pragmatics_Semantics_Context-555555?style=for-the-badge&logo=stanford&logoColor=white" alt="Pragmatics, Semantics, Context-awareness"></a>
+
 <!-- Language vs. Communication Models -->
 <a href="https://en.wikipedia.org/wiki/Language_model" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Language_vs_Communication-555555?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Language vs Communication Models"></a>
@@ -363,9 +371,6 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 <a href="https://www.sciencedirect.com/topics/computer-science/multimodal-communication" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Speech_Text_Emotion-555555?style=for-the-badge&logo=sciencedirect&logoColor=white" alt="Speech, Text, and Emotion Modalities"></a>
 
-<!-- Pragmatics, Semantics, and Context-awareness -->
-<a href="https://plato.stanford.edu/entries/pragmatics/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Pragmatics_Semantics_Context-555555?style=for-the-badge&logo=stanford&logoColor=white" alt="Pragmatics, Semantics, Context-awareness"></a>
 
 <div>
   <p>
@@ -380,6 +385,11 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 <b>3] Text-to-Speech (TTS)</b> : Converts written text into natural-sounding human speech.<br>
 <b>4] Emotion & Sentiment Recognition</b> : Detects affective states in voice or text to tailor responses.<br>
 <b>5] Multimodal Language Understanding</b> : Combines input like video, audio, and text to enable richer AI understanding.<br>
+
+
+<!-- Multimodal Language Understanding -->
+<a href="https://arxiv.org/abs/2206.10467" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Multimodal_Language_Understanding-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Multimodal Language Understanding"></a>
 
 <!-- Conversational AI & Dialogue Systems -->
 <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noopener noreferrer">
@@ -397,9 +407,6 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 <a href="https://www.affectiva.com/emotion-ai/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Emotion_Sentiment_AI-555555?style=for-the-badge&logo=affectiva&logoColor=white" alt="Emotion & Sentiment Recognition"></a>
 
-<!-- Multimodal Language Understanding -->
-<a href="https://arxiv.org/abs/2206.10467" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Multimodal_Language_Understanding-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Multimodal Language Understanding"></a>
 
 <div>
   <p>
@@ -416,6 +423,10 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 <b>5] Attention-based ASR/TTS systems</b> : Employs attention mechanisms for accurate speech recognition and synthesis.<br>
 
 
+<!-- Reinforcement Learning for Dialog Control -->
+<a href="https://arxiv.org/abs/2006.12367" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Reinforcement_Learning_Dialog-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="RL for Dialog Control"></a>
+
 <!-- Transformer-based speech models -->
 <a href="https://arxiv.org/abs/2103.02051" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Transformer_Speech_Models-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Transformer-based Speech Models"></a>
@@ -431,10 +442,6 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
   <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
 <a href="https://ai.meta.com/research/publications/seamless-m4t/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Meta_SeamlessM4T-555555?style=for-the-badge&logo=meta&logoColor=white" alt="SeamlessM4T"></a>
-
-<!-- Reinforcement Learning for Dialog Control -->
-<a href="https://arxiv.org/abs/2006.12367" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Reinforcement_Learning_Dialog-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="RL for Dialog Control"></a>
 
 <!-- Attention-based ASR/TTS systems -->
 <a href="https://arxiv.org/abs/1506.07503" target="_blank" rel="noopener noreferrer">
