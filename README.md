@@ -174,17 +174,46 @@
 
 ---
 
-## 🧠 Large Language Models (LLMs)
+## ☆ Large Language Models (LLMs)
 
 ### Topics Covered in LLMs
 
-- Transformer Architecture & Self-Attention
-- Pretraining & Fine-tuning (LoRA, PEFT, RLHF)
-- Prompt Engineering (Zero-shot, Few-shot, CoT)
-- Evaluation Metrics (Perplexity, LAMBADA, TruthfulQA)
-- Model deployment, scalability, and cost estimation
-- RAG (Retrieval Augmented Generation)
-- Ethics: Hallucination, Security, Jailbreaking
+<b>1] Transformer Architecture & Self-Attention</b> : Core deep learning model using attention to process sequences efficiently and capture context.<br>
+<b>2] Pretraining & Fine-tuning (LoRA, PEFT, RLHF)</b> : Techniques to adapt large models for specific tasks by efficient training and reinforcement learning.<br>
+<b>3] Prompt Engineering (Zero-shot, Few-shot, CoT)</b> : Designing effective input prompts to guide language models’ responses without extensive retraining.<br>
+<b>4] Evaluation Metrics (Perplexity, LAMBADA, TruthfulQA)</b> : Quantitative measures to assess language model performance and truthfulness on complex tasks.<br>
+<b>5] Model Deployment, Scalability, and Cost Estimation</b> : Strategies to efficiently serve models at scale while managing computational resources and expenses.<br>
+<b>6] RAG (Retrieval Augmented Generation)</b> : Combining retrieval systems with generative models to improve answer accuracy using external knowledge.<br>
+<b>7] Ethics: Hallucination, Security, Jailbreaking</b> : Addressing risks of misinformation, system vulnerabilities, and adversarial exploitation in AI models.<br>
+
+<!-- Transformer Architecture & Self-Attention -->
+<a href="https://jalammar.github.io/illustrated-transformer/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Transformer_Architecture-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Transformer Architecture"></a>
+
+<!-- Pretraining & Fine-tuning (LoRA, PEFT, RLHF) -->
+<a href="https://huggingface.co/blog/peft" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Pretraining_&_Fine-tuning-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Pretraining and Fine-tuning"></a>
+
+<!-- Prompt Engineering (Zero-shot, Few-shot, CoT) -->
+<a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-engineering" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-555555?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Prompt Engineering"></a>
+
+<!-- Evaluation Metrics (Perplexity, LAMBADA, TruthfulQA) -->
+<a href="https://aclanthology.org/2021.naacl-main.364/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Evaluation_Metrics-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="Evaluation Metrics"></a>
+
+<!-- Model Deployment, Scalability, and Cost Estimation -->
+<a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Model_Deployment-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Deployment"></a>
+
+<!-- RAG (Retrieval Augmented Generation) -->
+<a href="https://huggingface.co/blog/rag" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/RAG_Retrieval_Augmented_Generation-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG"></a>
+
+<!-- Ethics: Hallucination, Security, Jailbreaking -->
+<a href="https://ai.google/responsibilities/responsible-ai-practices/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Ethics_in_AI-555555?style=for-the-badge&logo=google&logoColor=white" alt="AI Ethics"></a>
+
 
 ### Tools & Frameworks for LLMs
 
