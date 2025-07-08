@@ -308,10 +308,6 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <a href="https://www.youtube.com/playlist?list=PLpzmRsG7u_gta8p3WGuUq4I1R9apS8Wlg" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Karpathy_Zero_to_Hero-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="Karpathy Zero to Hero"></a>
 
-<!-- Karpathy – Neural Networks Zero to Hero -->
-<a href="https://www.youtube.com/playlist?list=PLpzmRsG7u_gta8p3WGuUq4I1R9apS8Wlg" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Karpathy_Zero_to_Hero-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="Karpathy LLM Series"></a>
-
 <!-- OpenAI Cookbook -->
 <a href="https://github.com/openai/openai-cookbook" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/OpenAI_Cookbook-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Cookbook"></a>
@@ -356,7 +352,7 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
   <img src="https://img.shields.io/badge/Language_vs_Communication-555555?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Language vs Communication Models"></a>
 
 <!-- Speech, Text, and Emotion as Modalities -->
-<a href="https://www.sciencedirect.com/topics/computer-science/multimodal-communication" target="_blank" rel="noopener noreferrer">
+<a href="https://www.sciencedirect.com/science/article/pii/S2667305324001108" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Speech_Text_Emotion-555555?style=for-the-badge&logo=sciencedirect&logoColor=white" alt="Speech, Text, and Emotion Modalities"></a>
 
 
@@ -376,23 +372,23 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 
 
 <!-- Multimodal Language Understanding -->
-<a href="https://arxiv.org/abs/2206.10467" target="_blank" rel="noopener noreferrer">
+<a href="https://www.moveworks.com/us/en/resources/ai-terms-glossary/multimodal-language-models0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Multimodal_Language_Understanding-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Multimodal Language Understanding"></a>
 
 <!-- Conversational AI & Dialogue Systems -->
-<a href="https://cloud.google.com/dialogflow" target="_blank" rel="noopener noreferrer">
+<a href="https://www.ibm.com/think/topics/conversational-ai" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Conversational_AI-555555?style=for-the-badge&logo=google&logoColor=white" alt="Conversational AI & Dialogue Systems"></a>
 
 <!-- Speech-to-Text (ASR) -->
-<a href="https://cloud.google.com/speech-to-text" target="_blank" rel="noopener noreferrer">
+<a href="https://en.wikipedia.org/wiki/Speech_synthesis" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Speech_to_Text_ASR-555555?style=for-the-badge&logo=google&logoColor=white" alt="Speech-to-Text ASR"></a>
 
 <!-- Text-to-Speech (TTS) -->
-<a href="https://cloud.google.com/text-to-speech" target="_blank" rel="noopener noreferrer">
+<a href="https://simple.wikipedia.org/wiki/Text_to_speech" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Text_to_Speech_TTS-555555?style=for-the-badge&logo=google&logoColor=white" alt="Text-to-Speech TTS"></a>
 
 <!-- Emotion & Sentiment Recognition -->
-<a href="https://www.affectiva.com/emotion-ai/" target="_blank" rel="noopener noreferrer">
+<a href="https://viso.ai/deep-learning/visual-emotion-ai-recognition/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Emotion_Sentiment_AI-555555?style=for-the-badge&logo=affectiva&logoColor=white" alt="Emotion & Sentiment Recognition"></a>
 
 
@@ -412,11 +408,11 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 
 
 <!-- Reinforcement Learning for Dialog Control -->
-<a href="https://arxiv.org/abs/2006.12367" target="_blank" rel="noopener noreferrer">
+<a href="https://paperswithcode.com/paper/deep-reinforcement-learning-for-dialogue" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Reinforcement_Learning_Dialog-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="RL for Dialog Control"></a>
 
 <!-- Transformer-based speech models -->
-<a href="https://arxiv.org/abs/2103.02051" target="_blank" rel="noopener noreferrer">
+<a href="https://huggingface.co/learn/audio-course/en/chapter3/introduction" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Transformer_Speech_Models-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Transformer-based Speech Models"></a>
 
 <!-- Audio Transformers (Whisper, SpeechT5) -->
@@ -449,27 +445,27 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 <b>4] Human Evaluation: Engagement & Clarity</b> : Real-user feedback to judge interaction quality and coherence.<br>
 
 <!-- Naturalness and Fluency of Speech -->
-<a href="https://ieeexplore.ieee.org/document/8938133" target="_blank" rel="noopener noreferrer">
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0094730X08000521" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Naturalness_and_Fluency-555555?style=for-the-badge&logo=ieee&logoColor=white" alt="Naturalness and Fluency of Speech"></a>
 
 <!-- Emotion Detection Accuracy -->
-<a href="https://ieeexplore.ieee.org/document/8570153" target="_blank" rel="noopener noreferrer">
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494625001784" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Emotion_Detection_Accuracy-555555?style=for-the-badge&logo=ieee&logoColor=white" alt="Emotion Detection Accuracy"></a>
 
 <!-- BLEU Score -->
-<a href="https://aclweb.org/anthology/P02-1040" target="_blank" rel="noopener noreferrer">
+<a href="https://en.wikipedia.org/wiki/BLEU" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/BLEU_Score-555555?style=for-the-badge&logo=acl&logoColor=white" alt="BLEU Score"></a>
 
 <!-- METEOR Score -->
-<a href="https://aclweb.org/anthology/W05-0909" target="_blank" rel="noopener noreferrer">
+<a href="https://en.wikipedia.org/wiki/METEOR" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/METEOR_Score-555555?style=for-the-badge&logo=acl&logoColor=white" alt="METEOR Score"></a>
 
 <!-- BERTScore -->
-<a href="https://arxiv.org/abs/1904.09675" target="_blank" rel="noopener noreferrer">
+<a href="https://huggingface.co/spaces/evaluate-metric/bertscore" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/BERTScore-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="BERTScore"></a>
 
 <!-- Human Evaluation: Engagement & Clarity -->
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0885230820300442" target="_blank" rel="noopener noreferrer">
+<a href="https://www.sciencedirect.com/science/article/pii/S088523082030084X" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Human_Evaluation-555555?style=for-the-badge&logo=sciencedirect&logoColor=white" alt="Human Evaluation"></a>
 
 <div>
@@ -520,27 +516,13 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 </div>
 
 ### Official Resources
-<a href="https://openai.com/research/whisper" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/OpenAI_Whisper-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Whisper"></a>
-
-<a href="https://ai.meta.com/blog/seamlessm4t/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Meta_SeamlessM4T-555555?style=for-the-badge&logo=meta&logoColor=white" alt="Meta SeamlessM4T"></a>
-
-<a href="https://arxiv.org/abs/2110.07205" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/SpeechT5_Research-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="SpeechT5 Research Paper"></a>
 
 <a href="https://rasa.com/docs/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Rasa_Documentation-555555?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa Documentation"></a>
 
-<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google_Gemini-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
-
-<a href="https://www.coursera.org/learn/natural-language-processing" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Coursera_NLP_Dialogue_Systems-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera NLP & Dialogue Systems"></a>
 
 <a href="https://www.coursera.org/specializations/natural-language-processing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DeepLearningAI_NLP_Specialization-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI NLP Specialization"></a>
-
 
 <a href="https://huggingface.co/learn/nlp-course/chapter1" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Hugging_Face_NLP_Course-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face NLP Course"></a>
@@ -554,10 +536,10 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
 <a href="https://platform.openai.com/docs/tutorials" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/OpenAI_API_Documentation-555555?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API Documentation"></a>
 
-<a href="https://www.coursera.org/learn/large-language-models" target="_blank" rel="noopener noreferrer">
+<a href="https://www.coursera.org/learn/generative-ai-with-llms?utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_generative-ai-with-llms_deeplearning-ai_ftcof_learn_cx_dr_bau_gg_sem_pr_in_all_m_hyb_24-05_x&campaignid=21241362459&adgroupid=158619676981&device=c&keyword=generative%20ai%20llm%20coursera&matchtype=p&network=g&devicemodel=&creativeid=698150770448&assetgroupid=&targetid=kwd-2225523835654&extensionid=&placement=&gad_source=1&gad_campaignid=21241362459&gbraid=0AAAAADdKX6ZwSXgDW41wanIjqKUEwLz9O&gclid=CjwKCAjwg7PDBhBxEiwAf1CVu6tyGx0o_eW4L1An7Bl16-XoVsiOGBanx3eG3PerYNencvAvunYD8RoCnJkQAvD_BwE" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coursera_Large_Language_Models-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Large Language Models"></a>
 
-<a href="https://www.udemy.com/course/large-language-models-and-transformers/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.udemy.com/course/mastering-ai-with-transformers-and-llms/?srsltid=AfmBOorDFtTJ6vmdqYBZN_OEB3DEvyoMR0xDVC8POxR0G4UEnwMmVR9d&couponCode=ST17MT70725G1" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Udemy_LLMs_and_Transformers-555555?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy LLMs and Transformers"></a>
 
 <div>
