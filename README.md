@@ -189,8 +189,28 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <!-- MIT Deep Learning Lectures -->
 <a href="https://introtodeeplearning.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/MIT_Deep_Learning-555555?style=for-the-badge&logo=mit&logoColor=white" alt="MIT Deep Learning Lectures"></a>
+
   
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### Technologies used in Generative AI
+<a href="https://pytorch.org/">
+  <img src="https://img.shields.io/badge/PyTorch-E34C26?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+<a href="https://www.tensorflow.org/">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+<a href="https://huggingface.co/">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+<a href="https://platform.openai.com/">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></a>
+<a href="https://www.stability.ai/">
+  <img src="https://img.shields.io/badge/StableDiffusion-16A085?style=for-the-badge&logo=stable%20diffusion&logoColor=white" alt="Stable Diffusion"></a>
+<a href="https://github.com/huggingface/diffusers">
+  <img src="https://img.shields.io/badge/Diffusers-FFC107?style=for-the-badge&logo=python&logoColor=black" alt="Diffusers"></a>
 
 
 ---
@@ -331,6 +351,30 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <!-- Anthropic Claude API Docs -->
 <a href="https://docs.anthropic.com/claude" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Claude_API_Docs-555555?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API Docs"></a>
+
+
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+### Technologies used in LLMs
+<a href="https://huggingface.co/transformers/">
+  <img src="https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge&logo=python&logoColor=black" alt="Transformers"></a>
+<a href="https://langchain.com/">
+  <img src="https://img.shields.io/badge/LangChain-00B86B?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"></a>
+<a href="https://www.llamaindex.ai/">
+  <img src="https://img.shields.io/badge/LlamaIndex-009688?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex"></a>
+<a href="https://platform.openai.com/docs">
+  <img src="https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"></a>
+<a href="https://www.anthropic.com/index/claude">
+  <img src="https://img.shields.io/badge/Claude-2C2C2C?style=for-the-badge&logoColor=white" alt="Claude by Anthropic"></a>
+<a href="https://deepmind.google/technologies/gemini/">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"></a>
+<a href="https://mistral.ai/">
+  <img src="https://img.shields.io/badge/Mistral-A2D2FF?style=for-the-badge&logo=cloudflare&logoColor=black" alt="Mistral"></a>
 
 
 ---
@@ -560,6 +604,31 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
   </p>
 </div>
 
+### Technologies used in LCMs
+
+<a href="https://openai.com/research/whisper">
+  <img src="https://img.shields.io/badge/Whisper-007ACC?style=for-the-badge&logo=waveform&logoColor=white" alt="OpenAI Whisper"></a>
+<a href="https://huggingface.co/microsoft/speecht5_tts">
+  <img src="https://img.shields.io/badge/SpeechT5-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white" alt="SpeechT5"></a>
+<a href="https://github.com/coqui-ai/TTS">
+  <img src="https://img.shields.io/badge/Coqui_TTS-FFC107?style=for-the-badge&logo=googlevoice&logoColor=black" alt="Coqui TTS"></a>
+<a href="https://rasa.com/">
+  <img src="https://img.shields.io/badge/Rasa-A9225C?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"></a>
+<a href="https://ai.meta.com/blog/seamlessm4t/">
+  <img src="https://img.shields.io/badge/SeamlessM4T-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta SeamlessM4T"></a>
+<a href="https://deepmind.google/technologies/gemini/">
+  <img src="https://img.shields.io/badge/Gemini-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"></a>
+<a href="https://azure.microsoft.com/en-us/products/cognitive-services/speech-services">
+  <img src="https://img.shields.io/badge/Azure_Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Speech Services"></a>
+
+
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
 ### LCMs vs LLMs: What’s the Difference?
 
 | Feature | LLMs (Large Language Models) | LCMs (Language & Communication Models) |
@@ -575,6 +644,7 @@ Language and Communication Models (LCMs) are AI systems that extend beyond text 
     <h1></h1>
   </p>
 </div>
+
 
 ### Advanced projects for Gen AI, LLMs and LCMs
 
