@@ -1,4 +1,4 @@
-
+<img width="100%" src="https://github.com/JoshuaThadi/Generative-AI/blob/main/assests/banner.png">
 
 ## ★ Generative AI
 
