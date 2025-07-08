@@ -31,11 +31,11 @@ Generative AI refers to a class of artificial intelligence models designed to cr
   <img src="https://img.shields.io/badge/Text_Image_Audio_Video_Code_Generation-555555?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Multimodal Generation"></a>
 
 <!-- 3. GANs -->
-<a href="https://keras.io/examples/generative/dcgan_overriding_train_step/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.ibm.com/think/topics/generative-adversarial-networks" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GANs_(Generative_Adversarial_Networks)-555555?style=for-the-badge&logo=keras&logoColor=white" alt="GANs"></a>
 
 <!-- 7. Deepfakes and Ethics -->
-<a href="https://www.nist.gov/news-events/news/2023/03/nist-seeks-comment-ai-generated-deepfakes-and-manipulated-media" target="_blank" rel="noopener noreferrer">
+<a href="https://tepperspectives.cmu.edu/all-articles/deepfakes-and-the-ethics-of-generative-ai/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Deepfakes_&_Ethics-555555?style=for-the-badge&logo=datadog&logoColor=white" alt="Deepfakes and Ethics"></a>
 
 <!-- 8.1 BLEU -->
@@ -43,7 +43,7 @@ Generative AI refers to a class of artificial intelligence models designed to cr
   <img src="https://img.shields.io/badge/BLEU_Score-555555?style=for-the-badge&logo=wikidata&logoColor=white" alt="BLEU Score"></a>
 
 <!-- 4. VAEs -->
-<a href="https://keras.io/examples/generative/vae/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.ibm.com/think/topics/variational-autoencoder" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VAEs_(Variational_Autoencoders)-555555?style=for-the-badge&logo=keras&logoColor=white" alt="VAEs"></a>
 
 
@@ -60,7 +60,7 @@ Generative AI refers to a class of artificial intelligence models designed to cr
   <img src="https://img.shields.io/badge/ROUGE_Score-555555?style=for-the-badge&logo=wikidata&logoColor=white" alt="ROUGE Score"></a>
 
 <!-- 1. Fundamentals of Generative AI -->
-<a href="https://www.deeplearning.ai/short-courses/generative-ai-with-llms/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.coursera.org/learn/generative-ai-introduction-and-applications?action=enroll&adgroupid=169459011518&assetgroupid=&campaignid=21794529004&creativeid=716372273447&device=c&devicemodel=&extensionid=&gad_campaignid=21794529004&gad_source=1&gbraid=0AAAAADdKX6bqFlLtMqZPdcVqmikhQqfzc&gclid=CjwKCAjwg7PDBhBxEiwAf1CVu52L2YVZwZ0iu73skO_cYIwzbrBU8iDhfpWhtPvyRWvvJYB9j4COgBoC98cQAvD_BwE&keyword=&matchtype=&network=g&placement=&targetid=dsa-2420290992847&utm_campaign=b2c_india_generative-ai-for-human-resources_ibm_ftcof_specializations_px_dr_bau_gg_sem_pr_in_all_m_hyb_24-10_x&utm_medium=sem&utm_source=gg" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Fundamentals_of_Generative_AI-555555?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Fundamentals of Generative AI"></a>
 
 
@@ -73,7 +73,7 @@ Generative AI refers to a class of artificial intelligence models designed to cr
   <img src="https://img.shields.io/badge/Diffusion_Models-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Diffusion Models"></a>
 
 <!-- 8.4 Inception Score -->
-<a href="https://arxiv.org/abs/1606.03498" target="_blank" rel="noopener noreferrer">
+<a href="https://en.wikipedia.org/wiki/Inception_score" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Inception_Score-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Inception Score"></a>
 
 
