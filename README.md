@@ -1,5 +1,17 @@
 <img width="100%" src="https://github.com/JoshuaThadi/Generative-AI/blob/main/assests/banner.png">
 
+<div align="center">
+<a href="https://github.com/JoshuaThadi/Generative-AI/blob/main/GenAI-roadmap.md">
+  <img src="https://img.shields.io/badge/Generative_AI-roadmap-grey?style=for-the-badge&logo=markdown&logoColor=white" alt="GenAI Roadmap Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Generative-AI/blob/main/LCMs-roadmap.md">
+  <img src="https://img.shields.io/badge/LCMs-roadmap-grey?style=for-the-badge&logo=markdown&logoColor=white" alt="LCMs Roadmap Badge"></a>
+
+<a href="https://github.com/JoshuaThadi/Generative-AI/blob/main/LLMs-roadmap.md">
+  <img src="https://img.shields.io/badge/LLMs-roadmap-grey?style=for-the-badge&logo=markdown&logoColor=white" alt="LLMs Roadmap Badge"></a>
+</div>
+
+
 ## ★ Generative AI
 Generative AI refers to a class of artificial intelligence models designed to create new content such as text, images, audio, or video by learning patterns from existing data. These models, like GANs, VAEs, and Transformers, can generate realistic and creative outputs that mimic human-like creativity. Applications range from writing and art generation to code synthesis and music composition.
 
