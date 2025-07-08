@@ -51,6 +51,14 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://github.com/mseitzer/pytorch-fid" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/FID_(Fréchet_Inception_Distance)-555555?style=for-the-badge&logo=pytorch&logoColor=white" alt="FID"></a>
 
+<!-- 6. Transformers -->
+<a href="https://huggingface.co/transformers/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Transformers-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a>
+
+<!-- 8.2 ROUGE -->
+<a href="https://en.wikipedia.org/wiki/ROUGE_(metric)" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ROUGE_Score-555555?style=for-the-badge&logo=wikidata&logoColor=white" alt="ROUGE Score"></a>
+
 <!-- 1. Fundamentals of Generative AI -->
 <a href="https://www.deeplearning.ai/short-courses/generative-ai-with-llms/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Fundamentals_of_Generative_AI-555555?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Fundamentals of Generative AI"></a>
@@ -63,14 +71,6 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <!-- 5. Diffusion Models -->
 <a href="https://huggingface.co/docs/diffusers/index" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Diffusion_Models-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Diffusion Models"></a>
-
-<!-- 6. Transformers -->
-<a href="https://huggingface.co/transformers/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Transformers-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a>
-
-<!-- 8.2 ROUGE -->
-<a href="https://en.wikipedia.org/wiki/ROUGE_(metric)" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/ROUGE_Score-555555?style=for-the-badge&logo=wikidata&logoColor=white" alt="ROUGE Score"></a>
 
 <!-- 8.4 Inception Score -->
 <a href="https://arxiv.org/abs/1606.03498" target="_blank" rel="noopener noreferrer">
@@ -96,6 +96,14 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <b>8] PyTorch</b> : A flexible and developer-friendly deep learning library widely used for research and production.<br>
 
 
+<!-- Replicate -->
+<a href="https://replicate.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Replicate-555555?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Replicate"></a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TensorFlow-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+
 <!-- Hugging Face Transformers -->
 <a href="https://huggingface.co/transformers" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Hugging_Face_Transformers-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Transformers"></a>
@@ -116,14 +124,6 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://gradio.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gradio-555555?style=for-the-badge&logo=python&logoColor=white" alt="Gradio"></a>
 
-<!-- Replicate -->
-<a href="https://replicate.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Replicate-555555?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Replicate"></a>
-
-<!-- TensorFlow -->
-<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/TensorFlow-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
-
 <!-- PyTorch -->
 <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/PyTorch-555555?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
@@ -135,6 +135,19 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 </div>
 
 ### Official Resources for Generative AI
+
+
+<!-- Coursera Deep Learning Specialization -->
+<a href="https://www.coursera.org/specializations/deep-learning" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coursera_Deep_Learning_Specialization-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Deep Learning Specialization"></a>
+
+<!-- MIT Deep Learning Lectures -->
+<a href="https://deeplearning.mit.edu/lectures/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MIT_Deep_Learning-555555?style=for-the-badge&logo=mit&logoColor=white" alt="MIT Deep Learning Lectures"></a>
+
+<!-- Google AI Blog - Diffusion Models -->
+<a href="https://ai.googleblog.com/2021/07/introducing-diffusion-models.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Google_AI_Blog-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Blog"></a>
 
 <!-- DeepLearning.AI - Generative AI with LLMs -->
 <a href="https://www.deeplearning.ai/short-courses/generative-ai-with-llms/" target="_blank" rel="noopener noreferrer">
@@ -151,14 +164,6 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <!-- Fast.ai - Practical Deep Learning for Coders -->
 <a href="https://course.fast.ai/part2" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Fast.ai_Deep_Learning-555555?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast.ai Deep Learning"></a>
-
-<!-- MIT Deep Learning Lectures -->
-<a href="https://deeplearning.mit.edu/lectures/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/MIT_Deep_Learning-555555?style=for-the-badge&logo=mit&logoColor=white" alt="MIT Deep Learning Lectures"></a>
-
-<!-- Google AI Blog - Diffusion Models -->
-<a href="https://ai.googleblog.com/2021/07/introducing-diffusion-models.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Google_AI_Blog-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Blog"></a>
 
 <!-- Papers with Code - Generative Models -->
 <a href="https://paperswithcode.com/task/generative-models" target="_blank" rel="noopener noreferrer">
@@ -181,9 +186,6 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coursera_Andrew_Ng_ML-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Andrew Ng ML"></a>
 
-<!-- Coursera Deep Learning Specialization -->
-<a href="https://www.coursera.org/specializations/deep-learning" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Coursera_Deep_Learning_Specialization-555555?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Deep Learning Specialization"></a>
 
 <!-- Fast.ai Practical Deep Learning -->
 <a href="https://course.fast.ai/" target="_blank" rel="noopener noreferrer">
