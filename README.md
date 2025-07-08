@@ -24,9 +24,7 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <b>11] Inception Score</b> : Evaluates image generation by assessing both object recognizability and output diversity. <br>
 <b>12] Applications in Art, Music, Content, Code, Avatars</b> : Generative AI is driving innovation in creativity, enabling tools for art, music composition, coding, and virtual avatars. <br>
 
-<!-- 1. Fundamentals of Generative AI -->
-<a href="https://www.deeplearning.ai/short-courses/generative-ai-with-llms/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Fundamentals_of_Generative_AI-555555?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Fundamentals of Generative AI"></a>
+
 
 <!-- 2. Multimodal Generation -->
 <a href="https://platform.openai.com/examples" target="_blank" rel="noopener noreferrer">
@@ -36,9 +34,31 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://keras.io/examples/generative/dcgan_overriding_train_step/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GANs_(Generative_Adversarial_Networks)-555555?style=for-the-badge&logo=keras&logoColor=white" alt="GANs"></a>
 
+<!-- 7. Deepfakes and Ethics -->
+<a href="https://www.nist.gov/news-events/news/2023/03/nist-seeks-comment-ai-generated-deepfakes-and-manipulated-media" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Deepfakes_&_Ethics-555555?style=for-the-badge&logo=datadog&logoColor=white" alt="Deepfakes and Ethics"></a>
+
+<!-- 8.1 BLEU -->
+<a href="https://en.wikipedia.org/wiki/BLEU" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/BLEU_Score-555555?style=for-the-badge&logo=wikidata&logoColor=white" alt="BLEU Score"></a>
+
 <!-- 4. VAEs -->
 <a href="https://keras.io/examples/generative/vae/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VAEs_(Variational_Autoencoders)-555555?style=for-the-badge&logo=keras&logoColor=white" alt="VAEs"></a>
+
+
+<!-- 8.3 FID -->
+<a href="https://github.com/mseitzer/pytorch-fid" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/FID_(Fréchet_Inception_Distance)-555555?style=for-the-badge&logo=pytorch&logoColor=white" alt="FID"></a>
+
+<!-- 1. Fundamentals of Generative AI -->
+<a href="https://www.deeplearning.ai/short-courses/generative-ai-with-llms/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Fundamentals_of_Generative_AI-555555?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Fundamentals of Generative AI"></a>
+
+
+<!-- 9. Applications -->
+<a href="https://openai.com/sora" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Generative_AI_Applications-555555?style=for-the-badge&logo=artstation&logoColor=white" alt="Generative AI Applications"></a>
 
 <!-- 5. Diffusion Models -->
 <a href="https://huggingface.co/docs/diffusers/index" target="_blank" rel="noopener noreferrer">
@@ -48,29 +68,14 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://huggingface.co/transformers/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Transformers-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a>
 
-<!-- 7. Deepfakes and Ethics -->
-<a href="https://www.nist.gov/news-events/news/2023/03/nist-seeks-comment-ai-generated-deepfakes-and-manipulated-media" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Deepfakes_&_Ethics-555555?style=for-the-badge&logo=datadog&logoColor=white" alt="Deepfakes and Ethics"></a>
-
-<!-- 8.1 BLEU -->
-<a href="https://en.wikipedia.org/wiki/BLEU" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/BLEU_Score-555555?style=for-the-badge&logo=wikidata&logoColor=white" alt="BLEU Score"></a>
-
 <!-- 8.2 ROUGE -->
 <a href="https://en.wikipedia.org/wiki/ROUGE_(metric)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ROUGE_Score-555555?style=for-the-badge&logo=wikidata&logoColor=white" alt="ROUGE Score"></a>
-
-<!-- 8.3 FID -->
-<a href="https://github.com/mseitzer/pytorch-fid" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/FID_(Fréchet_Inception_Distance)-555555?style=for-the-badge&logo=pytorch&logoColor=white" alt="FID"></a>
 
 <!-- 8.4 Inception Score -->
 <a href="https://arxiv.org/abs/1606.03498" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Inception_Score-555555?style=for-the-badge&logo=arxiv&logoColor=white" alt="Inception Score"></a>
 
-<!-- 9. Applications -->
-<a href="https://openai.com/sora" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Generative_AI_Applications-555555?style=for-the-badge&logo=artstation&logoColor=white" alt="Generative AI Applications"></a>
 
 <div>
   <p>
