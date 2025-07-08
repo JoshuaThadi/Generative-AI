@@ -149,6 +149,11 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <a href="https://ai.googleblog.com/2021/07/introducing-diffusion-models.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Google_AI_Blog-555555?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Blog"></a>
 
+
+<!-- NVIDIA Deep Learning Institute -->
+<a href="https://developer.nvidia.com/deep-learning-institute" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/NVIDIA_Deep_Learning_Institute-555555?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Deep Learning Institute"></a>
+
 <!-- DeepLearning.AI - Generative AI with LLMs -->
 <a href="https://www.deeplearning.ai/short-courses/generative-ai-with-llms/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DeepLearning.AI_Generative_AI-555555?style=for-the-badge&logo=deeplearningai&logoColor=white" alt="DeepLearning.AI Generative AI"></a>
@@ -168,11 +173,6 @@ Generative AI refers to a class of artificial intelligence models designed to cr
 <!-- Papers with Code - Generative Models -->
 <a href="https://paperswithcode.com/task/generative-models" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Papers_with_Code-555555?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Papers with Code"></a>
-
-
-<!-- NVIDIA Deep Learning Institute -->
-<a href="https://developer.nvidia.com/deep-learning-institute" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/NVIDIA_Deep_Learning_Institute-555555?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Deep Learning Institute"></a>
 
 <!-- Google AI Courses -->
 <a href="https://ai.google/education/" target="_blank" rel="noopener noreferrer">
@@ -218,13 +218,19 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <b>6] RAG (Retrieval Augmented Generation)</b> : Combining retrieval systems with generative models to improve answer accuracy using external knowledge.<br>
 <b>7] Ethics: Hallucination, Security, Jailbreaking</b> : Addressing risks of misinformation, system vulnerabilities, and adversarial exploitation in AI models.<br>
 
-<!-- Transformer Architecture & Self-Attention -->
-<a href="https://jalammar.github.io/illustrated-transformer/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Transformer_Architecture-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Transformer Architecture"></a>
+
+<!-- RAG (Retrieval Augmented Generation) -->
+<a href="https://huggingface.co/blog/rag" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/RAG_Retrieval_Augmented_Generation-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG"></a>
 
 <!-- Pretraining & Fine-tuning (LoRA, PEFT, RLHF) -->
 <a href="https://huggingface.co/blog/peft" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Pretraining_&_Fine-tuning-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Pretraining and Fine-tuning"></a>
+
+
+<!-- Transformer Architecture & Self-Attention -->
+<a href="https://jalammar.github.io/illustrated-transformer/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Transformer_Architecture-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Transformer Architecture"></a>
 
 <!-- Prompt Engineering (Zero-shot, Few-shot, CoT) -->
 <a href="https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-engineering" target="_blank" rel="noopener noreferrer">
@@ -237,10 +243,6 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <!-- Model Deployment, Scalability, and Cost Estimation -->
 <a href="https://www.tensorflow.org/tfx/guide/serving" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Model_Deployment-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Deployment"></a>
-
-<!-- RAG (Retrieval Augmented Generation) -->
-<a href="https://huggingface.co/blog/rag" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/RAG_Retrieval_Augmented_Generation-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG"></a>
 
 <!-- Ethics: Hallucination, Security, Jailbreaking -->
 <a href="https://ai.google/responsibilities/responsible-ai-practices/" target="_blank" rel="noopener noreferrer">
