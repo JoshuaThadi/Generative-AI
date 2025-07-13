@@ -382,8 +382,8 @@ Large Language Models (LLMs) are advanced AI models trained on vast amounts of t
 <br>
 <br>
 
-## ✪ Language and Communication Models (LCMs)
-Language and Communication Models (LCMs) are AI systems that extend beyond text understanding to include human communication aspects like speech, emotion, and multimodal inputs (e.g., audio, video, and text). They power technologies such as speech recognition, text-to-speech, conversational agents, and emotion-aware AI, enabling more natural and context-aware interactions between humans and machines.
+## ✪ Language and Communication Models 
+Language and Communication Models are AI systems that extend beyond text understanding to include human communication aspects like speech, emotion, and multimodal inputs (e.g., audio, video, and text). They power technologies such as speech recognition, text-to-speech, conversational agents, and emotion-aware AI, enabling more natural and context-aware interactions between humans and machines.
 
 
 <div>
