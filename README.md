@@ -604,7 +604,7 @@ Language and Communication Models are AI systems that extend beyond text underst
   </p>
 </div>
 
-### Technologies used in LCMs
+### Technologies used
 
 <a href="https://openai.com/research/whisper">
   <img src="https://img.shields.io/badge/Whisper-007ACC?style=for-the-badge&logo=waveform&logoColor=white" alt="OpenAI Whisper"></a>
@@ -629,9 +629,9 @@ Language and Communication Models are AI systems that extend beyond text underst
   </p>
 </div>
 
-### LCMs vs LLMs: What’s the Difference?
+### What’s the Difference?
 
-| Feature | LLMs (Large Language Models) | LCMs (Language & Communication Models) |
+| Feature | Large Language Models | Language & Communication Models |
 |--------|-------------------------------|----------------------------------------|
 | Modality | Text-only | Text + Speech + Emotion + Multimodal |
 | Focus | Text generation and understanding | Human-like communication and interaction |
