@@ -36,7 +36,7 @@ Procedurally generate game assets such as levels, characters, or narratives, inc
 <b>12. Self-Supervised Learning for Generative Models</b>
 Implement novel self-supervised pretraining tasks that enhance sample diversity and generation coherence.
 
-
+---
 
 # Advanced LLM projects
 
@@ -76,8 +76,9 @@ Create models that understand and generate across text and images/videos for ric
 <b>12. Adversarial Robustness and Safety in LLMs</b>
 Study and build defenses against adversarial inputs and malicious prompt injections.
 
+---
 
-# Advanced LCM projects
+# Advanced Lamguage and communication models projects
 
 <b>1. Multimodal Conversational Agent</b>
 Build an AI assistant that processes and responds using text, speech, and visual inputs, enabling richer human-like interaction.
@@ -114,3 +115,49 @@ Design models that retrieve relevant information by querying across different mo
 
 <b>12. Multilingual and Multimodal Code-Switching Models**</b>
 Develop systems that can handle conversations seamlessly switching languages and modes (e.g., text to voice).
+
+---
+
+# Large Concept Models Projects
+<b>1. Multimodal Customer Support with Cross-Lingual Capabilities</b>
+Build an AI assistant that understands and responds to customer queries in multiple languages using text, speech, and images for personalized, efficient support.
+
+<b>2. Dynamic Educational Content Generator</b>
+Create a tutoring system that adapts explanations and interactive content to students’ learning styles and progress across multiple formats.
+
+<b>3. Automated Scientific Research Assistant</b>
+Develop a tool that summarizes papers, identifies key concepts, and suggests hypotheses to accelerate literature review and discovery.
+
+<b>4. Legal and Ethical Reasoning System</b>
+Design a system to analyze legal texts, grasp nuanced principles, and assist with deeper legal and ethical insights.
+
+<b>5. Multimodal Marketing Content Generator</b>
+Generate consistent marketing content across text, images, and video, adapting to languages and cultural contexts for strong brand presence.
+
+<b>6. Multimodal Vision-Language Understanding</b>
+Build a model that jointly processes images, videos, and text for tasks like visual Q&A and captioning with deeper context.
+
+<b>7. Generative Code Synthesis from Natural Language</b>
+Translate natural language descriptions into executable code snippets across languages for automated coding help.
+
+<b>8. Knowledge-Enhanced Language Models</b>
+Integrate external knowledge bases to improve factual accuracy and domain expertise in language model outputs.
+
+<b>9. Zero-Shot and Few-Shot Multilingual Learning</b>
+Create a model that performs NLP tasks across many languages without task-specific training.
+
+<b>10. Personalized Adaptive Dialogue Systems</b>
+Develop conversational agents that adapt to user preferences over time for personalized interactions.
+
+<b>11. Explainable AI for Language Models</b>
+Build tools to explain language model reasoning, increasing transparency and trust.
+
+<b>12. Robust Adversarial Defense</b>
+Design defenses against adversarial inputs to ensure safe and reliable AI responses.
+
+<b>13. Multimodal Generative Art and Storytelling</b>
+Generate creative multimedia stories combining text, images, sound, and animation.
+
+
+
+
