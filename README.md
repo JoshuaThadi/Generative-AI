@@ -664,15 +664,15 @@ Large Concept Models (LCMs) are generalist AI systems trained on multimodal and 
 <b>7] Cross-Modal Dialogue & Emotion Understanding</b> : Coherent, emotionally aware responses across speech, text, and images.<br>
 
 <!-- Concept Learning -->
-<a href="https://arxiv.org/abs/2312.14084" target="_blank" rel="noopener noreferrer">
+<a href="https://www.datacamp.com/blog/large-concept-models" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Concept_Learning-555555?style=for-the-badge&logo=google&logoColor=white" alt="Concept Learning"></a>
 
 <!-- Multimodal Fusion -->
-<a href="https://ai.meta.com/research/publications/seamlessm4t/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.educative.io/answers/what-is-multimodal-fusion" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Multimodal_Fusion-555555?style=for-the-badge&logo=meta&logoColor=white" alt="Multimodal Fusion"></a>
 
 <!-- Generalist Intelligence -->
-<a href="https://openai.com/index/gpt-4o" target="_blank" rel="noopener noreferrer">
+<a href="https://www.paltron.com/insights-en/specialisation-in-the-field-of-artificial-intelligence---generalist-vs-specialist" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Generalist_AI-555555?style=for-the-badge&logo=openai&logoColor=white" alt="Generalist Intelligence"></a>
 
 <!-- Evaluation -->
@@ -680,7 +680,7 @@ Large Concept Models (LCMs) are generalist AI systems trained on multimodal and 
   <img src="https://img.shields.io/badge/Evaluation_Benchmarks-555555?style=for-the-badge&logo=academia&logoColor=white" alt="Evaluation"></a>
 
 <!-- Constitutional AI -->
-<a href="https://www.anthropic.com/index/claude" target="_blank" rel="noopener noreferrer">
+<a href="https://www.nightfall.ai/ai-security-101/constitutional-ai" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Constitutional_AI-555555?style=for-the-badge&logo=anthropic&logoColor=white" alt="Constitutional AI"></a>
 
 <div>
@@ -741,29 +741,6 @@ Large Concept Models (LCMs) are generalist AI systems trained on multimodal and 
     <h1></h1>
   </p>
 </div>
-
-### Official Resources for LCMs
-
-<a href="https://deepmind.google/technologies/gemini/" target="_blank">
-  <img src="https://img.shields.io/badge/Gemini_Overview-555555?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"></a>
-
-<a href="https://openai.com/index/gpt-4o" target="_blank">
-  <img src="https://img.shields.io/badge/GPT_4o_Paper-555555?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o"></a>
-
-<a href="https://ai.meta.com/blog/seamlessm4t/" target="_blank">
-  <img src="https://img.shields.io/badge/Meta_SeamlessM4T-555555?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"></a>
-
-<a href="https://www.anthropic.com/index/claude" target="_blank">
-  <img src="https://img.shields.io/badge/Claude_Docs-555555?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"></a>
-
-<a href="https://llava-vl.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/LLaVA_Guide-555555?style=for-the-badge&logo=github&logoColor=white" alt="LLaVA"></a>
-
-<a href="https://huggingface.co/docs/transformers/index" target="_blank">
-  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-555555?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></a>
-
-<a href="https://docs.langchain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LangChain_Docs-555555?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain Docs"></a>
 
 
 ### Advanced projects for Gen AI, LLMs and LCMs
