@@ -15,11 +15,9 @@
 ## ★ Generative AI
 Generative AI refers to a class of artificial intelligence models designed to create new content such as text, images, audio, or video by learning patterns from existing data. These models, like GANs, VAEs, and Transformers, can generate realistic and creative outputs that mimic human-like creativity. Applications range from writing and art generation to code synthesis and music composition.
 
-<div>
-  <p>
-    <h1></h1>
-  </p>
-</div>
+
+>[!important]
+>### Generative-AI and Large-Language-Models resources
 
 ### Topics Covered in Generative AI
 
